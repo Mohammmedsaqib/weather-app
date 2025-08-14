@@ -7,7 +7,7 @@ const error404 = document.querySelector('.not-found');
 
 // Function to get weather data
 function getWeather() {
-    const APIKey = 'da6123fc4e8ffb0bfc4aff81332a864d';
+    const APIKey = '85aac7ea5f75fa9252b709792f2d5510';
     const city = searchInput.value;
     
     if (city === '')
@@ -88,4 +88,5 @@ searchInput.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
         getWeather();
     }
+
 });
