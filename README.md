@@ -12,10 +12,6 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 - **Error Handling**: Graceful error handling for invalid locations
 - **Responsive Design**: Works perfectly on all devices and screen sizes
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-username.github.io/weather-app)
-
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup and structure
@@ -26,12 +22,6 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 - **Google Fonts**: Typography (Poppins & Roboto)
 
 ## 📱 Screenshots
-
-### Desktop View
-![Desktop View](screenshots/desktop.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile.png)
 
 ## 🎯 How to Use
 
@@ -171,3 +161,4 @@ If you have any questions or need help, please:
 **Made with ❤️ by [Your Name]**
 
 *Star this repository if you found it helpful!*
+
