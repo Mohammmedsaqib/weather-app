@@ -158,8 +158,9 @@ If you have any questions or need help, please:
 
 ---
 
-**Made with ❤️ by [saqib]**
+**Made with ❤️ by saqib**
 
 *Star this repository if you found it helpful!*
+
 
 
