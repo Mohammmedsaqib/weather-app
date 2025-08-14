@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact me at [your-email@example.com]
+- Contact me at [saqibraheman181@gmail.com]
 
 ## 🌟 Future Enhancements
 
@@ -158,7 +158,8 @@ If you have any questions or need help, please:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [saqib]**
 
 *Star this repository if you found it helpful!*
+
 
