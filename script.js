@@ -1,4 +1,4 @@
-let id = '9505fd1df737e20152fbd78cdb289b6a';
+let id = '7ed2f192cf3f8c9c8282f9ee0d7e1514';
 let url = 'https://api.openweathermap.org/data/2.5/weather?units=metric&appid=' + id;
 let city = document.querySelector('.name');
 let form = document.querySelector("form");
@@ -45,3 +45,4 @@ const initApp = () => {
     searchWeather();
 }
 initApp();
+
